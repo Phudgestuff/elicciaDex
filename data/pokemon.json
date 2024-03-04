@@ -1,0 +1,36 @@
+{
+    "torripup":{
+        "hasforms":false,
+        "forms":[],
+        "types":["fire"],
+        "abilities":["Blaze"],
+        "stats":{
+            "hp":{
+                "number":45,
+                "name":"hp"
+            },
+            "attack":{
+                "number":65,
+                "name":"attack"
+            },
+            "defense":{
+                "number":40,
+                "name":"defense"
+            },
+            "special attack":{
+                "number":60,
+                "name":"special attack"
+            },
+            "special defense":{
+                "number":40,
+                "name":"special defense"
+            },
+            "speed":{
+                "number":70,
+                "name":"speed"
+            }
+        },
+        "sprite":"https://raw.githubusercontent.com/Phudgestuff/elicciaDex/main/images/torripup.png",
+        "entry":"Torripup are very timid and shy pokemon, so much that they will bark and display ferocity just to get people away from them. They enjoy living in solitude, but the chain around their neck will attach to something they hold dear to them; a sign of devotion."
+    }
+}
